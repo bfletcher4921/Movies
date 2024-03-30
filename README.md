@@ -1,5 +1,5 @@
 # Movies
-Use file read for various lookups and displays data that matches user input.
+Use file read and functions for various lookups and displays data that matches user input.
 
 Must have movies.txt and movie_titles.txt in same directory as cooresponding py files.
 
